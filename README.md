@@ -2,4 +2,5 @@
   
 Example `README.md`
 
-Remote changes
+Remote changes + Local changes
+  
